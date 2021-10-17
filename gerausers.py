@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Testando VS CODE & GITHUB
+
 def geraUsersTxt():
     arquivo = open("intercalado.txt", "w+")
 
